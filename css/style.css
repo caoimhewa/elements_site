@@ -1,0 +1,87 @@
+/*------------- CSS RESET -----------------------*/
+
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  line-height: 1em;
+  overflow-x: hidden;
+  overflow-y: ;
+}
+
+body{
+  /*width: 75%;
+  max-width: 700px;*/
+  font-family: 'Helvetica Light','Open Sans','Arial', sans-serif;
+  /*font-family: 'Libre Baskerville', Georgia, Times, 'Times New Roman',serif;*/
+  margin: auto;
+  background-color: black;*/
+  /*background-color: #fafafa;*/
+  color: #333;
+  line-height: 1.8;
+  overflow-x: hidden;
+  overflow-y: ;
+}
+
+div.garden {
+    height: 100vh;
+    width: 100vw;
+    display: block;
+}
+
+img.app {
+    width: 100vw;
+    height: auto;
+}
+
+div.black {
+    height: 300vh;
+    widows: 100vw;
+    display: block;
+}
+
+div.enter {
+    widows: 100vw;
+    height: 100vh;
+    background-image: url(../img/enter.gif);
+    background-size: cover;
+}
+
+
+/*-----------------index----------------*/
+
+
+button.button {
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.em;
+    font-family: 
+        
+    
+    
+}
+
+div.button {
+    
+text-align: center;
+    margin-top: 73vh;
+    border: none;
+}
+
+button.button:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
