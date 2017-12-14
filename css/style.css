@@ -15,12 +15,19 @@ body{
   font-family: 'Helvetica Light','Open Sans','Arial', sans-serif;
   /*font-family: 'Libre Baskerville', Georgia, Times, 'Times New Roman',serif;*/
   margin: auto;
-  background-color: black;*/
-  /*background-color: #fafafa;*/
+    background-color: #13260E;*/
+
+ /*background-color: #fafafa;*/
+    background-color: #5CAFB3;
   color: #333;
   line-height: 1.8;
   overflow-x: hidden;
   overflow-y: ;
+}
+
+#element1 {
+    background-color: #5CAFB3;
+    
 }
 
 div.garden {
@@ -34,16 +41,13 @@ img.app {
     height: auto;
 }
 
-div.black {
-    height: 300vh;
-    widows: 100vw;
-    display: block;
+
 }
 
 div.enter {
     widows: 100vw;
     height: 100vh;
-    background-image: url(../img/enter.gif);
+    background-image: url(../img/garden2.gif);
     background-size: cover;
 }
 
@@ -59,6 +63,8 @@ button.button {
     text-align: center;
     text-decoration: none;
     font-size: 1.em;
+    text-transform: uppercase;
+    border-radius: 10px;
     font-family: 
         
     
@@ -68,7 +74,7 @@ button.button {
 div.button {
     
 text-align: center;
-    margin-top: 73vh;
+    margin-top: 65vh;
     border: none;
 }
 
@@ -78,10 +84,63 @@ button.button:hover {
 
 
 
+body {
+    
+    font-family: 'Tangerine', cursive;
+    
+}
+
+h1 {color: white;
+font-size:3em;
+padding-left: 10em;
+padding-bottom:1em;
+padding-top: 1em;}
+
+#
+
+p{color: white;
+font-size:1.1em;
+padding-left: 7em;
+padding-right: 7em;
+padding-bottom:2em;
+padding-top: 1em;
+font-family: 'Lato', sans-serif;
+font-weight: 200;
+letter-spacing: 1px;
+line-height: 150%;
+text-align: center;
+}
+
+h2 {
+    
+font-family: 'Lato', sans-serif;
+    font-weight: 200;
+    line-height: 100%;
+    color: white;
+    position:absolute;
+    font-size:1.1em;
+    padding-right: 5em;
+    padding-left: 30em;
+    padding-top: 4em;
+    float: right;
+}
 
 
 
+div.elements {
+    padding-left: 8.5em
+}
 
+div.potassium {
+    background-color: #5CAFB3;
+    
+}
 
-
-
+div.apple {
+     height: 100vh;
+     width: 100vw;
+    display: inline-block;
+    padding-left: 8.5em;
+    padding-top: 1em;
+    float: left
+}
