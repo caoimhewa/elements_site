@@ -23,6 +23,13 @@ body{
   line-height: 1.8;
   overflow-x: hidden;
   overflow-y: ;
+  
+    
+overflow-x: hidden;
+font-family: 'Lato', sans-serif;
+    margin: 0;
+
+    
 }
 
 #element1 {
@@ -115,8 +122,6 @@ font-weight: 200;
 letter-spacing: 1px;
 line-height: 150%;
 text-align: center;
-    
-    
 }
 
 
