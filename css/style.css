@@ -183,6 +183,7 @@ div.apple {
     align-items: center;
     flex-flow: row wrap;
     justify-content: space-around;
+max-width: 100%;
 }
 
 /*---row-layouts--*/
